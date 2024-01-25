@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diwaskharel
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python(pandas , numpy , Matplotlib , seaborn)
+- 🌱 I’m currently learning python(pandas , numpy , Matplotlib , seaborn) , TensorFlow
 - 💞️ I’m looking to collaborate on data science projects : data analyist and machine learning
 - 📫 How to reach me dr6479811@gmail.com
 - 😄 Pronouns: he \him
